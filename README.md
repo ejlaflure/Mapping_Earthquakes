@@ -1,5 +1,7 @@
 # Mapping_Earthquakes
 Iterative earthquake mapping project utilizing GeoJSON and JavaScript.
+
+Interactive Earthquake Map: 
 ## Project Overview
 ### Purpose
 - Visually show the differences between the magnitudes of earthquakes all over the world for the last seven days.
