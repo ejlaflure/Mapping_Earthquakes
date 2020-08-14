@@ -1,8 +1,9 @@
 # Mapping_Earthquakes
 Iterative earthquake mapping project utilizing GeoJSON and JavaScript.
 
-Interactive Earthquake Map Example: 
+Interactive Earthquake Map Snapshot: 
 ![Interactive_Earthquake_Map](https://github.com/ejlaflure/Mapping_Earthquakes/blob/master/Interactive_Earthquake_Map.JPG)
+(Personal Leaflet API Key is needed to run interactive model)
 
 ## Project Overview
 ### Purpose
