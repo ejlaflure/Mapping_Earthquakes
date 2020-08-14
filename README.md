@@ -1,7 +1,9 @@
 # Mapping_Earthquakes
 Iterative earthquake mapping project utilizing GeoJSON and JavaScript.
 
-Interactive Earthquake Map: https://ejlaflure.github.io/Mapping_Earthquakes/index.html
+Interactive Earthquake Map Example: 
+![Interactive_Earthquake_Map](https://github.com/ejlaflure/Mapping_Earthquakes/blob/master/Interactive_Earthquake_Map.JPG)
+
 ## Project Overview
 ### Purpose
 - Visually show the differences between the magnitudes of earthquakes all over the world for the last seven days.
